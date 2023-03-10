@@ -1,0 +1,29 @@
+body {
+    background-color: #EDF1D6;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+hr {
+
+    border-style: dotted none none;
+
+    background-color: inherit;
+
+    border-color: grey;
+
+    border-width: 5px;
+
+    width: 5%;
+
+}
+
+h1 {
+    color: #9DC08B;
+
+}
+
+h3 {
+    color: #9DC08B;
+
+}
